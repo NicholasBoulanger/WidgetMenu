@@ -32,23 +32,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/NicholasBoulanger/WidgetMenu">
     <img src="![image](https://user-images.githubusercontent.com/101681695/184559525-4d39481c-8059-434b-b2e9-3775feaed234.png)" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">WidgetsbyNick</h3>
 
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/NicholasBoulanger/WidgetMenu"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="[https://github.com/github_username/repo_name](https://github.com/NicholasBoulanger/WidgetMenu)">View Demo</a>
+    <a href="https://github.com/NicholasBoulanger/WidgetMenu">View Demo</a>
     ·
-    <a href="[https://github.com/github_username/repo_name](https://github.com/NicholasBoulanger/WidgetMenu)/issues">Report Bug</a>
+    <a href="https://github.com/NicholasBoulanger/WidgetMenu/issues">Report Bug</a>
     ·
-    <a href="[https://github.com/github_username/repo_name](https://github.com/NicholasBoulanger/WidgetMenu)/issues">Request Feature</a>
+    <a href="https://github.com/NicholasBoulanger/WidgetMenu/issues">Request Feature</a>
   </p>
 </div>
 
