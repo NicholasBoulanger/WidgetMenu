@@ -87,6 +87,10 @@
 -------------------------------------------------BELOW IS UNDER CONSTRUCTION-------------------------------------------------
 https://png2.cleanpng.com/sh/fe4171c2f4996f598fee3f53efba965f/L0KzQYm3V8A2N5pmi5H0aYP2gLBuTfNwdaF6jNd7LXnmf7B6TfNtcaEyeeR9LXPyfsT7kwVkfJp0hp9sb37oPYbpUBVkbmlmSKoCNHW7PoOBV8YyOGc4Sac8MEi3Q4G4WMA0PGgziNDw/kisspng-computer-icons-clip-art-construction-cone-5b3ecf8a0874e8.2876106315308430180347.png
 
+
+<img src="https://png2.cleanpng.com/sh/fe4171c2f4996f598fee3f53efba965f/L0KzQYm3V8A2N5pmi5H0aYP2gLBuTfNwdaF6jNd7LXnmf7B6TfNtcaEyeeR9LXPyfsT7kwVkfJp0hp9sb37oPYbpUBVkbmlmSKoCNHW7PoOBV8YyOGc4Sac8MEi3Q4G4WMA0PGgziNDw/kisspng-computer-icons-clip-art-construction-cone-5b3ecf8a0874e8.2876106315308430180347.png" alt="Logo" width="80" height="80">
+
+
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
