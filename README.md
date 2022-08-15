@@ -36,10 +36,10 @@
     <img src="https://png2.cleanpng.com/sh/b9a2dc401ebf2448e3b9870fa5656617/L0KzQYm3U8E2N6V8fZH0aYP2gLBuTfdzbZZzReVuYT33hcP7jPUubKNmj9t3Zz3mfLr3TfFzfF5ritduLYT4gsXzhb1kdJp1eeR9LUXkcbKBUBYzO2RqSKY6LkO7RYS5VsU5OWY3SaM7NEO2SIO4UsUveJ9s/kisspng-green-sea-turtle-drawing-clip-art-free-turtle-clipart-5aaa83f233e041.3853265815211243382125.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">WidgetsbyNick</h3>
+<h3 align="center">Widgets by Nick</h3>
 
   <p align="center">
-    project_description
+    Simple Widget Page for personal use, feel free to fork and use in your own projects
     <br />
     <a href="https://github.com/NicholasBoulanger/WidgetMenu"><strong>Explore the docs »</strong></a>
     <br />
